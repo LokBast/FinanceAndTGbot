@@ -1,0 +1,7 @@
+﻿<configuration>
+    <connectionStrings>
+	    <add name="PassDesktop.Properties.Settings.PassingConnectionString"
+          connectionString="Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=UNGPassing;Data Source=DESKTOP-3E6ME6N"
+          providerName="System.Data.SqlClient" />
+    </connectionStrings>
+</configuration>
