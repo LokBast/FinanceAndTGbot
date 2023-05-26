@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mj5CC8iSjaO3nPRFzlQT9voANju8qICTERgEnzvegLB5AkbpEBi4G5oLaOBnwWdiM5/3l4owhpSIkH8zxK8OlA==",
+  "dgSpecHash": "GDDtCp6cCEKvCeLQd5Y3GWdS5zfrWRb5ZvgiSQtgaMoeQNlWuo+L5+JOsBg+VuBfZCmsKGfUrGoVz+62kWh0kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceDesktop\\FinanceDesktop.csproj",
+  "projectFilePath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\FinanceDesktop\\FinanceDesktop.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.charts\\22.1.3\\devexpress.charts.22.1.3.nupkg.sha512",
     "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages\\devexpress.charts.core\\22.1.3\\devexpress.charts.core.22.1.3.nupkg.sha512",

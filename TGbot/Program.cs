@@ -86,7 +86,7 @@ namespace Telegram_Bot
 
             if (message.Text != null)
             {
-                if (message.Text.Contains("Иди нахуй"))
+                if (message.Text.Contains("Тест"))
                 {
                     FinanceContext context = new FinanceContext();
                     foreach (Operation operation in context.Operations)

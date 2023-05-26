@@ -4513,11 +4513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceDesktop\\FinanceDesktop.csproj",
+      "projectUniqueName": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\FinanceDesktop\\FinanceDesktop.csproj",
       "projectName": "FinanceDesktop",
-      "projectPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceDesktop\\FinanceDesktop.csproj",
+      "projectPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\FinanceDesktop\\FinanceDesktop.csproj",
       "packagesPath": "C:\\Users\\coolx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceDesktop\\obj\\",
+      "outputPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\FinanceDesktop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

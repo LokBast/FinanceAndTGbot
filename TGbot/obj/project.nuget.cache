@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KfbmoiVGjtvvJ4Nc5L/EyGgDOhplYmmbDsewgnbLbO64QZW4u6snhzInVFddic2LfoDKhi1W3WP7PPZL11vlKQ==",
+  "dgSpecHash": "0WyugxptdE/CGIcM6d5oEV19nw7tOgimjfGo0DxAzW5l1XbWUZtwhfFoomhiM9bXgbQZzzWw7XzOWxoz2wyWnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\TGbot\\TGbot.csproj",
+  "projectFilePath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\TGbot\\TGbot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\coolx\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\coolx\\.nuget\\packages\\fastmember\\1.5.0\\fastmember.1.5.0.nupkg.sha512",

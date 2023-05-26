@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\TGbot\\TGbot.csproj": {}
+    "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\TGbot\\TGbot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\TGbot\\TGbot.csproj": {
+    "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\TGbot\\TGbot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\TGbot\\TGbot.csproj",
+        "projectUniqueName": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\TGbot\\TGbot.csproj",
         "projectName": "TGbot",
-        "projectPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\TGbot\\TGbot.csproj",
+        "projectPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\TGbot\\TGbot.csproj",
         "packagesPath": "C:\\Users\\coolx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\TGbot\\obj\\",
+        "outputPath": "C:\\Users\\coolx\\Documents\\GitHub\\TGbot\\FinanceAndTGbot\\TGbot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
